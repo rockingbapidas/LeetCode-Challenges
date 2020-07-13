@@ -3,20 +3,6 @@ import java.util.*;
 public class LeetCodeArrays {
 
     public static void main(String[] args) {
-        // findMaxConsecutiveOnes(new int[]{-4,-1,0,3,10});
-        // findNumbers(new int[]{-4,-1,0,3,10});
-        // sortedSquares(new int[]{-4,-1,0,3,10});
-        // duplicateZeros(new int[]{0,4,1,0,0,8,0,0,3});
-        // merge(new int[]{2, 0}, 1, new int[]{1}, 1);
-        // removeElement(new int[]{0,0,1,1,1,2,2,3,3,4}, 1);
-        // removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4});
-        // checkIfExist(new int[]{0,0});
-        // validMountainArray(new int[]{2,0,2});
-        // replaceElements(new int[]{17,18,5,4,6,1});
-        // moveZeroes(new int[]{0,1});
-        // sortArrayByParity(new int[]{3,1,2,4});
-        // heightChecker(new int[]{5,1,2,3,4});
-        // thirdMax(new int[]{1,2,2,5,3,5});
         findDisappearedNumbers(new int[] { 1, 1, 2, 2 });
     }
 
